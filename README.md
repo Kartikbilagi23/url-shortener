@@ -78,7 +78,7 @@ Example:
 
 Architecture Diagram
 
-![Diagram](dashboard.png)
+![Diagram](arch.png)
 
 ---
 
