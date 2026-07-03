@@ -70,8 +70,6 @@ Grafana Dashboard
 
 ## 📸 Dashboard
 
-(Add screenshots here)
-
 Example:
 
 ![Grafana Dashboard](dashboard.png)
